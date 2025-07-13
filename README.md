@@ -13,10 +13,10 @@ git clone https://github.com/gowthamchi/dockerized-django-app.git
 cd dockerized-django-app
 ```
 
-Create your `.env` file using the `.env.example`:
+Create your `.env` file 
 
 ```bash
-cp .env.example .env
+vim .env
 ```
 
 Then add the following environment variables:
