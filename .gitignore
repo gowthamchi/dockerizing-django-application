@@ -37,3 +37,4 @@ ENV/
 *.log
 logs/
 sa.json
+gowtham-key.json
